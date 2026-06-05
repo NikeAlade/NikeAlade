@@ -4,9 +4,9 @@ A Computer Science student who loves building tech projects, analysing data, and
 ### 🛠️ Skills
 **Languages:** Python · JavaScript · Java · PHP · HTML · CSS · SQL
 <br>
-**Web & Frontend:** React · Node.js · FastAPI
+**Software Dev:** React · Node.js · FastAPI
 <br>
-**Data Analysis:** Pandas · SQL · Microsoft Excel · Power BI · Jupyter Notebook
+**Data:** Pandas · SQL · Microsoft Excel · Power BI · Jupyter Notebook
 <br>
 
 ### Connect with me
