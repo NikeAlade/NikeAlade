@@ -8,7 +8,7 @@ A Computer Science student who loves building tech projects, analysing data, and
 <br>
 **Data Analysis:** Pandas · SQL · Microsoft Excel · Power BI · Jupyter Notebook
 <br>
-**Cybersecurity (Learning):** Linux · Kali Linux · Wireshark · Networking
+**Cybersecurity:** Linux · Kali Linux · Wireshark · Networking
 <br>
 
 ### Connect with me
