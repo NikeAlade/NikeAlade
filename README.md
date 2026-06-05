@@ -1,7 +1,7 @@
 # Hi, I'm Nike! 👋🏾
 A Computer Science student who loves building tech projects, analysing data, and figuring out how to keep systems secure.
 
-## 🛠️ Skills
+### 🛠️ Skills
 
 **Languages:** Python · JavaScript · Java · PHP · HTML · CSS · SQL
 <br>
@@ -12,8 +12,8 @@ A Computer Science student who loves building tech projects, analysing data, and
 **Cybersecurity (Learning):** Linux · Kali Linux · Wireshark · Networking
 
 <br>
-## 📬 Connect with me
+
+### 📬 Connect with me
 
 📧 [nike.alade01@gmail.com](mailto:nike.alade01@gmail.com)
-
 💼 [LinkedIn](https://www.linkedin.com/in/oyenike-alade-61897b186)
