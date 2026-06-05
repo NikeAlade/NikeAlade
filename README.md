@@ -8,8 +8,6 @@ A Computer Science student who loves building tech projects, analysing data, and
 <br>
 **Data Analysis:** Pandas · SQL · Microsoft Excel · Power BI · Jupyter Notebook
 <br>
-**Cybersecurity:** Linux · VirtualBox · Wireshark · Networking
-<br>
 
 ### Connect with me
 📧 [nike.alade01@gmail.com](mailto:nike.alade01@gmail.com)
