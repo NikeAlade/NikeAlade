@@ -1,16 +1,12 @@
-## Hi there 👋
+Hi, I'm Nike! 👋🏾
+A Computer Science student who loves building things, analysing data, and figuring out how to keep systems secure.
 
-<!--
-**NikeAlade/NikeAlade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Skills
+Languages: Python · JavaScript · Java · PHP · HTML · CSS · SQL
+Web & Frontend: React · Node.js · FastAPI
+Data Analysis: Pandas · SQL · Microsoft Excel · Power BI · Jupyter Notebook
+Cybersecurity (Learning): Linux · Kali Linux · Wireshark · Networking
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 Connect with me
+📧 [Email](mailto:nike.alade01@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/oyenike-alade-61897b186)
