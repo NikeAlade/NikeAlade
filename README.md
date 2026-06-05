@@ -12,7 +12,7 @@ A Computer Science student who loves building tech projects, analysing data, and
 **Cybersecurity (Learning):** Linux · Kali Linux · Wireshark · Networking
 <br>
 
-### 📬 Connect with me
+### Connect with me
 📧 [nike.alade01@gmail.com](mailto:nike.alade01@gmail.com)
 <br>
 💼 [LinkedIn](https://www.linkedin.com/in/oyenike-alade-61897b186)
